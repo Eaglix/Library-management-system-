@@ -1,0 +1,21 @@
+.btn:hover{
+    color: blue;
+
+}
+.form{
+    
+        display: inline-table;
+        background-color: white;
+        text-align: center;
+        margin: 30px;
+        color: black;
+        padding: 30px;
+        height: 250px;
+        width: 320px;
+        box-shadow: 5px 5px 10px black;
+  
+    
+}
+.addbook{
+    background-color: wheat;
+}

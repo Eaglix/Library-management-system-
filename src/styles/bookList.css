@@ -1,0 +1,38 @@
+.book_section{
+    
+    
+    margin: 30px;
+    color: black;
+    
+    
+    
+}
+.booklist h1{
+    color:red;
+    font-weight: bolder;
+}
+.booklist{
+    background-color: wheat;
+    padding: 10px;
+}
+.books{
+    margin:10px;
+    display:flex;
+    justify-content: space-evenly;
+    background-color: white;
+
+    box-shadow: 5px 5px 10px black;
+    padding: 30px;
+}
+.bookcard{
+    color: black;
+    text-align: left;
+    font-style: italic;
+    
+}
+.btn1:hover{
+    background-color: skyblue;
+}
+.btn2:hover{
+    background-color: red;
+}

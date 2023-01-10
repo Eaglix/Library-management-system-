@@ -1,0 +1,31 @@
+.adminnavbar{
+    background-color: rgb(70, 61, 61);
+    padding: 10px 5px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.adminnavbar a{
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: gold;
+    font-weight: bolder;
+    font-style: oblique;
+}
+.logo img{
+    border-radius: 50%;
+    height: 80px;
+    width: 100px;
+}
+.adminnavbar a:hover{
+    background-color: white;
+    color: red;
+}
+.links{
+    margin-right: 30px;
+}
+.links li{
+    display: inline;
+}

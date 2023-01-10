@@ -1,0 +1,19 @@
+.usercard{
+    display: inline-table;
+    background-color: white;
+    text-align: center;
+    margin: 30px;
+    color: black;
+    padding: 30px;
+    height: 250px;
+    width: 320px;
+    box-shadow: 5px 5px 10px black;
+}
+.userlist h1{
+    color:red;
+    font-weight: bolder;
+}
+.userlist{
+    background-color: wheat;
+    padding: 10px;
+}
