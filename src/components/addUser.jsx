@@ -40,7 +40,7 @@ const AddUser = () => {
             <div className="phnumber">
                 <input value={phoneNumber} onChange={(e)=>setPhoneNumber(e.target.value)} type="number" minLength='10' maxLength='10' placeholder="Enter Your Phonenumber" />
             </div>
-            <button>Add User</button>
+            <button id="btnn">Add User</button>
             </form>
            </div>
         </div>

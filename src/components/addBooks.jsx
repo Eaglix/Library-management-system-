@@ -54,9 +54,9 @@ const AddBook = () => {
                     <div className="thumbnailUrl">
                         <input value={thumbnailUrl} onChange={(e)=>setthumbnailUrl(e.target.value)} type="text"  placeholder="URL of The Image" />
                     </div>
-                    {/* <div className="btn"> */}
-                    <button>Add Book</button>
-                    {/* </div> */}
+                    
+                    <button id='btnnn'>Add Book</button>
+                
                     
                 </form>
             </div>
